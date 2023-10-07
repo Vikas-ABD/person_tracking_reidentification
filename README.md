@@ -42,7 +42,7 @@ In this section, we'll describe how we implemented person detection using a pre-
 
    <div align="center">
 
-    <img src="images/train1.png"/>
+   <img src="images/train1.png"/>
 
    </div>
 
@@ -82,7 +82,7 @@ In this section, we'll describe how we extracted relevant features from detected
 
 <div align="center">
 
-    <img src="images/person_0.png"/>
+<img src="images/person_0.png"/>
 
 </div>
 
@@ -132,7 +132,7 @@ In this section, we'll discuss the design and implementation of the person re-id
 
    <div align="center">
 
-    <img src="images/train2.png"/>
+   <img src="images/train2.png"/>
 
    </div>
 
@@ -156,7 +156,7 @@ Run python detect.py
 
    <div align="center">
 
-    <img src="images/result.png"/>
+   <img src="images/result.png"/>
 
    </div>
 
