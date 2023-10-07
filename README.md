@@ -150,9 +150,9 @@ By designing and training a custom CNN-based model, we successfully achieved out
 
 # Step 5: Results VisuAalization
 In this section, we will display my results 
-<div>
+<h3>
 Run python detect.py
-</div>
+</h3>
 
    <div align="center">
 
