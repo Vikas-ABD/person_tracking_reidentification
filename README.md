@@ -22,7 +22,7 @@ In this section, we'll outline the process of collecting publicly available CCTV
 
 <div align="center">
 
-    <img src="images/data1.png"/>
+   <img src="images/data1.png"/>
 
 </div>
 
@@ -159,6 +159,10 @@ Run python detect.py
    <img src="images/result.png"/>
 
    </div>
+
+
+   <p> To download  the test video follow the video.txt file and open the link </p>
+    <p>   To download the person_classification model follw the link in the person_classification_model.txt </p>
 
 
    
