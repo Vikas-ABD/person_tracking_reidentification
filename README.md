@@ -22,7 +22,7 @@ In this section, we'll outline the process of collecting publicly available CCTV
 
 <div align="center">
 
-    <img src="images\data1.png"/>
+    <img src="images/data1.png"/>
 
 </div>
 
@@ -42,7 +42,7 @@ In this section, we'll describe how we implemented person detection using a pre-
 
    <div align="center">
 
-    <img src="images\train1.png"/>
+    <img src="images/train1.png"/>
 
    </div>
 
@@ -82,7 +82,7 @@ In this section, we'll describe how we extracted relevant features from detected
 
 <div align="center">
 
-    <img src="images\person_0.png"/>
+    <img src="images/person_0.png"/>
 
 </div>
 
@@ -132,7 +132,7 @@ In this section, we'll discuss the design and implementation of the person re-id
 
    <div align="center">
 
-    <img src="images\train2.png"/>
+    <img src="images/train2.png"/>
 
    </div>
 
@@ -150,10 +150,13 @@ By designing and training a custom CNN-based model, we successfully achieved out
 
 # Step 5: Results VisuAalization
 In this section, we will display my results 
+<div>
+Run python detect.py
+</div>
 
    <div align="center">
 
-    <img src="images\result.png"/>
+    <img src="images/result.png"/>
 
    </div>
 
